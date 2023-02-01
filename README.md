@@ -1,2 +1,2 @@
 # Data-structure-base.data
-printf("there are easy datas.)
+there are easy datas.I still store some basic operations of data structures here。
